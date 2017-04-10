@@ -12,8 +12,8 @@
 		<script>
 			// CHANGE THESE VARIABLES ******************************************
 			var TEXTURE_URL = 'textures/very_light_gray.png';
-			var OBJECT_URL  = 'objects/MediumSizedShoe.obj';
-			var TITLE       = 'This is a shoe';
+			var OBJECT_URL  = 'objects/WebWheel.obj';
+			var TITLE       = 'This is a bike wheel on a stool';
 			// *****************************************************************
 			var container;
 			var camera, scene, renderer;

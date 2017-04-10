@@ -12,7 +12,7 @@
 		<script>
 			// CHANGE THESE VARIABLES ******************************************
 			var TEXTURE_URL = 'textures/very_light_gray.png';
-			var OBJECT_URL  = 'objects/Webwheels.obj';
+			var OBJECT_URL  = 'objects/ReadyMade.obj';
 			var TITLE       = 'This is a bike wheel on a stool';
 			// *****************************************************************
 			var container;
